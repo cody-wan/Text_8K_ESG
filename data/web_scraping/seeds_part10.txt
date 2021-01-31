@@ -1,0 +1,40 @@
+JetBlue Airways Corp,www.jetblue.com
+Team Health Holdings Inc,www.teamhealth.com
+Advanced Disposal Services Inc,www.advanceddisposal.com
+FS KKR Capital Corp,www.fsinvestmentcorp.com
+Rockwell Collins Inc,www.rockwellcollins.com
+Martin Marietta Materials Inc.,www.martinmarietta.com
+Travelers Companies Inc (The),www.travelers.com
+Ingevity Corp,www.ingevity.com
+New Relic Inc,www.newrelic.com
+Penn Virginia Corp,www.pennvirginia.com
+RealPage Inc,www.realpage.com
+Dave & Buster's Entertainment Inc,ir.daveandbusters.com
+Select Medical Corp,www.selectmedical.com
+MercadoLibre Inc,www.mercadolibre.com
+Archrock Inc,www.archrock.com
+Marketo Inc,www.marketo.com
+Fox Factory Holding Corp,www.ridefox.com
+Alarm.com Holdings Inc,www.alarm.com
+Welbilt Inc,www.welbilt.com
+Continental Resources Inc,www.clr.com
+Diplomat Pharmacy Inc,www.diplomatpharmacy.com
+Penumbra Inc,www.penumbrainc.com
+Capital One Financial Corp.,www.capitalone.com
+Compuware Corp,www.compuware.com
+Generac Holdings Inc,www.generac.com
+GLG Partners Inc,www.glgpartners.com
+JELD-WEN Holding Inc,www.jeld-wen.com
+Edwards Lifesciences Corp,www.edwards.com
+LPL Financial Holdings Inc,www.lpl.com
+Realogy Holdings Corp,www.realogy.com
+RH,www.restorationhardware.com
+Erie Indemnity Co,www.erieinsurance.com
+Nexeo Solutions Inc,www.nexeosolutions.com
+Intercontinental Exchange Inc,www.intercontinentalexchange.com
+Neiman Marcus Inc,www.neimanmarcusgroup.com
+Financial Engines Inc,financialengines.com
+Acceleron Pharma Inc,www.acceleronpharma.com
+AT&T Inc,www.att.com
+Knowles Corp,www.knowles.com
+Marriott International Inc,www.marriott.com

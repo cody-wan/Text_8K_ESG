@@ -1,0 +1,137 @@
+INFO: 09/24/2020 11:22:14 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/24/2020 11:23:44 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/25/2020 12:05:51 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 09/25/2020 12:05:51 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 09/25/2020 12:05:51 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 09/25/2020 12:05:57 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 09/25/2020 12:06:02 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 09/25/2020 12:06:02 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 09/25/2020 12:06:05 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/25/2020 12:06:18 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 09/25/2020 12:06:18 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 09/25/2020 12:06:18 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 09/25/2020 12:06:24 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 09/25/2020 12:06:29 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 09/25/2020 12:06:29 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 09/25/2020 12:06:32 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/25/2020 12:07:03 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 09/25/2020 12:07:03 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 09/25/2020 12:07:04 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 09/25/2020 12:07:09 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 09/25/2020 12:07:14 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 09/25/2020 12:07:14 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 09/25/2020 12:07:17 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/25/2020 12:07:28 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 09/25/2020 12:07:28 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 09/25/2020 12:07:28 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 09/25/2020 12:07:34 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 09/25/2020 12:07:39 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 09/25/2020 12:07:39 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 09/25/2020 12:07:42 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 09/25/2020 02:55:26 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 09/25/2020 02:55:26 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 09/25/2020 02:55:26 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 09/25/2020 05:15:11 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 09/25/2020 09:17:56 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 09/25/2020 09:17:56 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 09/25/2020 03:06:02 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 10/14/2020 03:52:30 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 10/14/2020 03:52:30 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 10/14/2020 03:52:30 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 10/14/2020 04:30:39 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 10/14/2020 04:30:39 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 10/14/2020 04:30:40 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 10/14/2020 04:53:18 - 8-K_1034670_20200101.json, 0001564590-19-025272, EX-99.1_2
+INFO: 10/14/2020 04:53:18 - 8-K_1034670_20200101.json, 0001564590-19-001263, EX-99.1_2
+INFO: 10/14/2020 04:53:18 - 8-K_1034670_20200101.json, 0001564590-18-025203, EX-99.1_2
+INFO: 10/14/2020 04:53:20 - 8-K_1604028_20200101.json, 0001564590-19-028023, EX-99.1_6
+INFO: 10/14/2020 06:25:17 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 10/14/2020 07:06:34 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 10/14/2020 07:06:34 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 10/14/2020 07:56:45 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 10/14/2020 11:24:17 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 10/14/2020 11:24:17 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 10/14/2020 11:24:17 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 10/14/2020 11:24:22 - 8-K_1034670_20200101.json, 0001564590-19-025272, EX-99.1_2
+INFO: 10/14/2020 11:24:22 - 8-K_1034670_20200101.json, 0001564590-19-001263, EX-99.1_2
+INFO: 10/14/2020 11:24:22 - 8-K_1034670_20200101.json, 0001564590-18-025203, EX-99.1_2
+INFO: 10/14/2020 11:24:24 - 8-K_1604028_20200101.json, 0001564590-19-028023, EX-99.1_6
+INFO: 10/14/2020 11:24:32 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 10/14/2020 11:24:37 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 10/14/2020 11:24:37 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 10/14/2020 11:24:40 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 11/11/2020 10:49:29 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 11/11/2020 10:49:40 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 11/11/2020 10:52:56 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 11/30/2020 08:20:55 - loading LdaModel object from data/LDA/my_LDA/topic_model.model
+INFO: 11/30/2020 08:20:55 - loading expElogbeta from data/LDA/my_LDA/topic_model.model.expElogbeta.npy with mmap=None
+INFO: 11/30/2020 08:20:55 - setting ignored attribute state to None
+INFO: 11/30/2020 08:20:55 - setting ignored attribute id2word to None
+INFO: 11/30/2020 08:20:55 - setting ignored attribute dispatcher to None
+INFO: 11/30/2020 08:20:55 - loaded data/LDA/my_LDA/topic_model.model
+INFO: 11/30/2020 08:20:55 - loading LdaState object from data/LDA/my_LDA/topic_model.model.state
+INFO: 11/30/2020 08:20:55 - loaded data/LDA/my_LDA/topic_model.model.state
+INFO: 11/30/2020 08:20:55 - loading Dictionary object from data/LDA/my_LDA/dictionary.dict
+INFO: 11/30/2020 08:20:55 - loaded data/LDA/my_LDA/dictionary.dict
+INFO: 11/30/2020 08:20:55 - loaded corpus index from data/LDA/my_LDA/corpus.mm.index
+INFO: 11/30/2020 08:20:55 - initializing cython corpus reader from data/LDA/my_LDA/corpus.mm
+INFO: 11/30/2020 08:20:55 - accepted corpus with 6034 documents, 4747 features, 484287 non-zero entries
+INFO: 11/30/2020 08:29:15 - loading LdaModel object from data/LDA//topic_model.model
+INFO: 11/30/2020 08:29:15 - loading expElogbeta from data/LDA//topic_model.model.expElogbeta.npy with mmap=None
+INFO: 11/30/2020 08:29:15 - setting ignored attribute dispatcher to None
+INFO: 11/30/2020 08:29:15 - setting ignored attribute state to None
+INFO: 11/30/2020 08:29:15 - setting ignored attribute id2word to None
+INFO: 11/30/2020 08:29:15 - loaded data/LDA//topic_model.model
+INFO: 11/30/2020 08:29:15 - loading LdaState object from data/LDA//topic_model.model.state
+INFO: 11/30/2020 08:29:15 - loaded data/LDA//topic_model.model.state
+INFO: 11/30/2020 08:29:15 - loading Dictionary object from data/LDA//dictionary.dict
+INFO: 11/30/2020 08:29:15 - loaded data/LDA//dictionary.dict
+INFO: 11/30/2020 08:29:15 - loaded corpus index from data/LDA//corpus.mm.index
+INFO: 11/30/2020 08:29:15 - initializing cython corpus reader from data/LDA//corpus.mm
+INFO: 11/30/2020 08:29:15 - accepted corpus with 1526 documents, 3395 features, 258186 non-zero entries
+INFO: 11/30/2020 08:38:38 - adding document #0 to Dictionary(0 unique tokens: [])
+INFO: 11/30/2020 08:38:39 - built Dictionary(23964 unique tokens: ['aim', 'also', 'best', 'committed', 'compliant']...) from 1526 documents (total 515093 corpus positions)
+INFO: 11/30/2020 08:38:39 - discarding 20569 tokens: [('compliant', 10), ('documentation', 10), ('labeling', 2), ('requisite', 3), ('standardize', 1), ('statutory', 8), ('articulated', 4), ('communicated', 12), ('confronts', 1), ('labour', 10)]...
+INFO: 11/30/2020 08:38:39 - keeping 3395 tokens which were in no less than 15 and no more than 1373 (=90.0%) documents
+INFO: 11/30/2020 08:38:39 - resulting dictionary: Dictionary(3395 unique tokens: ['aim', 'also', 'best', 'committed', 'continually']...)
+INFO: 11/30/2020 08:38:39 - collecting document frequencies
+INFO: 11/30/2020 08:38:39 - PROGRESS: processing document #0
+INFO: 11/30/2020 08:38:39 - calculating IDF weights for 1526 documents and 3395 features (258186 matrix non-zeros)
+INFO: 11/30/2020 08:38:39 - using symmetric alpha at 0.3333333333333333
+INFO: 11/30/2020 08:38:39 - using symmetric eta at 0.3333333333333333
+INFO: 11/30/2020 08:38:39 - using serial LDA version on this node
+INFO: 11/30/2020 08:38:39 - running online LDA training, 3 topics, 1 passes over the supplied corpus of 1526 documents, updating every 8000 documents, evaluating every ~1526 documents, iterating 50x with a convergence threshold of 0.001000
+WARNING: 11/30/2020 08:38:39 - too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+INFO: 11/30/2020 08:38:39 - training LDA model using 4 processes
+INFO: 11/30/2020 08:38:39 - PROGRESS: pass 0, dispatched chunk #0 = documents up to #1526/1526, outstanding queue size 1
+INFO: 11/30/2020 08:38:40 - topic #0 (0.333): 0.010*"company" + 0.009*"energy" + 0.007*"change" + 0.007*"climate" + 0.005*"board" + 0.005*"said" + 0.005*"report" + 0.004*"director" + 0.004*"new" + 0.004*"committee"
+INFO: 11/30/2020 08:38:40 - topic #1 (0.333): 0.011*"sustainability" + 0.011*"company" + 0.006*"new" + 0.006*"climate" + 0.006*"said" + 0.005*"business" + 0.005*"community" + 0.005*"global" + 0.005*"environmental" + 0.005*"report"
+INFO: 11/30/2020 08:38:40 - topic #2 (0.333): 0.010*"company" + 0.009*"climate" + 0.007*"year" + 0.007*"energy" + 0.007*"change" + 0.006*"global" + 0.006*"water" + 0.005*"new" + 0.005*"sustainability" + 0.005*"business"
+INFO: 11/30/2020 08:38:40 - topic diff=0.911078, rho=1.000000
+INFO: 11/30/2020 08:38:42 - -7.393 per-word bound, 168.1 perplexity estimate based on a held-out corpus of 1526 documents with 437637 words
+INFO: 11/30/2020 08:40:17 - saving LdaState object under data/LDA/topic_model.model.state, separately None
+INFO: 11/30/2020 08:40:17 - saved data/LDA/topic_model.model.state
+INFO: 11/30/2020 08:40:17 - saving LdaMulticore object under data/LDA/topic_model.model, separately ['expElogbeta', 'sstats']
+INFO: 11/30/2020 08:40:17 - storing np array 'expElogbeta' to data/LDA/topic_model.model.expElogbeta.npy
+INFO: 11/30/2020 08:40:17 - not storing attribute dispatcher
+INFO: 11/30/2020 08:40:17 - not storing attribute state
+INFO: 11/30/2020 08:40:17 - not storing attribute id2word
+INFO: 11/30/2020 08:40:17 - saved data/LDA/topic_model.model
+INFO: 11/30/2020 08:40:17 - saving Dictionary object under data/LDA/dictionary.dict, separately None
+INFO: 11/30/2020 08:40:17 - saved data/LDA/dictionary.dict
+INFO: 11/30/2020 08:40:17 - storing corpus in Matrix Market format to data/LDA/corpus.mm
+INFO: 11/30/2020 08:40:17 - saving sparse matrix to data/LDA/corpus.mm
+INFO: 11/30/2020 08:40:17 - PROGRESS: saving document #0
+INFO: 11/30/2020 08:40:18 - PROGRESS: saving document #1000
+INFO: 11/30/2020 08:40:18 - saved 1526x3395 matrix, density=4.984% (258186/5180770)
+INFO: 11/30/2020 08:40:18 - saving MmCorpus index to data/LDA/corpus.mm.index
+ERROR: 12/01/2020 11:13:45 - Exception during reset or similar
+Traceback (most recent call last):
+  File "/Users/codywan/opt/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 693, in _finalize_fairy
+    fairy._reset(pool)
+  File "/Users/codywan/opt/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 880, in _reset
+    pool._dialect.do_rollback(self)
+  File "/Users/codywan/opt/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 538, in do_rollback
+    dbapi_connection.rollback()
+psycopg2.OperationalError: SSL SYSCALL error: Operation timed out
+

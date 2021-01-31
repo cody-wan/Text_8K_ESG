@@ -1,0 +1,41 @@
+American Water Works Co Inc,www.amwater.com
+Trinet Group Inc,www.trinet.com
+Enlink Midstream LLC,www.enlink.com
+NorthWestern Corp,www.northwesternenergy.com
+Gannett Co Inc -Old,www.gannett.com
+EOG Resources Inc.,www.eogresources.com
+iRhythm Technologies Inc,www.iRhythmTech.com
+WABCO Holdings Inc,www.wabco-auto.com
+Fox Entertainment Group Inc.,www.fox.com/
+AES Corp (The),www.aes.com
+Norfolk Southern Corp,www.norfolksouthern.com
+Univar Solutions Inc,www.univar.com
+Medpace Holdings Inc,www.medpace.com
+US Foods Holding Corp,www.usfoods.com
+Estee Lauder Cos Inc (The),www.elcompanies.com
+Cigna Corp,www.cigna.com
+GameStop Corp.,www.gamestop.com
+KBR Inc,www.kbr.com
+Sage Therapeutics Inc,www.sagerx.com
+Sealed Air Corp,www.sealedair.com
+Santander Consumer USA Holdings Inc,www.santanderconsumerusa.com
+Extended Stay America Inc.,www.extendedstayamerica.com
+Anthem Inc,www.antheminc.com
+Time Warner Cable Inc,www.timewarnercable.com
+HealthEquity Inc,www.healthequity.com
+SiteOne Landscape Supply Inc,www.siteone.com
+PayPal Holdings Inc,www.paypal.com
+Imperva Inc,www.imperva.com
+NCR Corp,www.ncr.com
+Coty Inc,www.coty.com
+Virtu Financial Inc,www.virtu.com
+TIBCO Software Inc,www.tibco.com
+Red Hat Inc,www.redhat.com
+Cornerstone OnDemand Inc,www.cornerstoneondemand.com
+Primerica Inc,www.primerica.com
+Metlife Inc.,www.metlife.com
+Opus Bank,www.opusbank.com
+Verizon Communications Inc,www.verizon.com
+Packaging Corp Of America,www.packagingcorp.com
+Masimo Corp,www.masimo.com
+Owens Corning,www.owenscorning.com

@@ -1,0 +1,41 @@
+Phillips 66,www.phillips66.com
+Expedia Group Inc,www.expediagroup.com
+SPX FLOW Inc,www.spxflow.com
+MRC Global Inc,www.mrcglobal.com
+salesforce.com Inc,www.salesforce.com
+Mosaic Company (The),www.mosaicco.com
+NOW Inc,www.distributionnow.com
+Capitol Federal Financial Inc,capfed.com
+Agios Pharmaceuticals Inc,www.agios.com
+AECOM,www.aecom.com
+athenahealth Inc,www.athenahealth.com
+Ply Gem Holdings Inc,www.plygem.com
+Waddell & Reed Financial Inc.,www.waddell.com
+Globus Medical Inc,www.globusmedical.com
+Vista Outdoor Inc,vistaoutdoor.com
+Bankrate Inc,www.bankrate.com
+Select Medical Holdings Corp,www.selectmedical.com
+Houghton Mifflin Harcourt Co,www.hmhco.com
+Genentech Inc,www.gene.com
+T-Mobile US Inc,www.t-mobile.com
+CIT Group Inc,www.cit.com
+Liberty TripAdvisor Holdings Inc,www.libertytripadvisorholdings.com
+Avaya Inc,www.avaya.com
+Yum China Holdings Inc,www.yumchina.com
+Georgia-Pacific Timber Co,www.thetimbercompany.com
+Avanos Medical Inc,avanos.com
+Berry Global Group Inc,www.berryglobal.com
+Alcoa Corp,www.alcoa.com
+Ultragenyx Pharmaceutical Inc,www.ultragenyx.com
+AMC Networks Inc,www.amcnetworks.com
+Avon Products Inc.,www.avonworldwide.com
+Black Knight Inc,www.blackknightinc.com
+Comcast Corp,corporate.comcast.com
+Carter's Inc.,www.carters.com
+Hittite Microwave Corp,www.hittite.com
+TFS Financial Corp,www.thirdfederal.com
+Gateway Inc.,www.gateway.com
+Baker Hughes a GE Co,www.bakerhughes.com
+SS&C Technologies Holdings Inc,www.ssctech.com
+Cable One Inc,www.cableone.biz
+RSP Permian Inc,www.rsppermian.com

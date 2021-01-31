@@ -1,0 +1,40 @@
+Starwood Hotels & Resorts Worldwide Inc.,www.starwood.com
+Gulfstream Aerospace,www.gulfstream.com
+Navient Corp,www.navient.com
+Spirit Airlines Inc,www.spirit.com
+Dominion Energy Inc,www.dominionenergy.com
+Alliance Data Systems Corp,www.alliancedata.com
+AOL Inc,www.oath.com
+Bloomin' Brands Inc,www.bloominbrands.com
+The Kraft Heinz Co,www.kraftheinzcompany.com
+Red Rock Resorts Inc,www.redrockresorts.com
+Five Below Inc,www.fivebelow.com
+Spark Therapeutics Inc,www.sparktx.com
+Anadarko Petroleum Corp,www.anadarko.com
+Aeroflex Holding Corp,www.aeroflex.com
+Premier Inc,www.premierinc.com
+Interactive Brokers Group Inc,www.interactivebrokers.com
+Rexnord Corp,www.rexnordcorporation.com
+Lin Television Corp,www.lintv.com
+Verisk Analytics Inc,www.verisk.com
+Paycom Software Inc,www.paycom.com
+7-Eleven Inc,www.7-eleven.com
+Tallgrass Energy GP LP,www.tallgrassenergylp.com
+Liberty Media Corp SiriusXM Group,www.libertymedia.com
+Hartford Financial Services Group Inc. (The),www.thehartford.com
+Madison Square Garden Sports Corp,www.msgsports.com
+Prudential Financial Inc,www.prudential.com
+Investors Bancorp Inc,www.myinvestorsbank.com
+Portland General Electric Co,www.portlandgeneral.com
+Catalent Inc,www.catalent.com
+Morningstar Inc,www.morningstar.com
+Quest Software Inc,www.quest.com
+Eagle Materials Inc,www.eaglematerials.com
+Apple Inc,www.apple.com
+Ancestry.com Inc,www.ancestry.com
+MACOM Technology Solutions Holdings Inc,www.macom.com
+Keysight Technologies Inc,www.keysight.com
+Iqvia Holdings Inc,www.iqvia.com
+VMware Inc,www.vmware.com
+Telephone and Data Systems Inc.,www.tdsinc.com
+Tapestry Inc,www.tapestry.com

@@ -1,0 +1,40 @@
+Atkore International Group Inc,www.atkore.com
+Western Union Co,www.westernunion.com
+Dole Food Co Inc,www.dole.com
+Groupon Inc,www.groupon.com
+Acacia Communications Inc,acacia-inc.com
+Allison Transmission Holdings Inc,www.allisontransmission.com
+General Motors Co,www.gm.com
+Proto Labs Inc,www.protolabs.com
+Charter Communications Inc,corporate.charter.com
+Ubiquiti Inc,www.ui.com
+Hussmann International Inc,www.hussmann.com
+News Corp,newscorp.com
+Kearny Financial Corp,www.kearnybank.com
+Pennzoil-Quaker State Co,www.pennzoil.com
+CIT Group Inc-Old,www.cit-llc.com
+Grand Canyon Education Inc,www.gce.com
+Amphenol Corp,www.amphenol.com
+Rackspace Hosting Inc,www.rackspace.com
+Avangrid Inc,www.avangrid.com
+Burlington Stores Inc,www.burlingtoninvestors.com
+Dresser-Rand Group Inc,www.dresser-rand.com
+Safeway Inc,www.safeway.com
+At Home Group Inc,www.athome.com
+Ingredion Inc,www.ingredion.com
+Calpine Corp,www.calpine.com
+Monsanto Co,www.monsanto.com
+ServiceNow Inc,www.servicenow.com
+Janus Capital Group Inc,www.janus.com
+Juno Therapeutics Inc,www.junotherapeutics.com
+Wingstop Inc,www.wingstop.com
+Energizer Holdings Inc,www.energizerholdings.com
+Dolby Laboratories Inc,www.dolby.com
+ITC Holdings Corp,www.itc-holdings.com
+Great Western Bancorp Inc,www.greatwesternbank.com
+Arch Coal Inc,www.archrsc.com
+Provident Financial Services Inc.,www.provident.bank
+AutoZone Inc,www.autozone.com
+Baker Hughes Inc,www.bakerhughes.com
+Valvoline Inc,www.valvoline.com
+Qlik Technologies Inc,www.qlik.com/us

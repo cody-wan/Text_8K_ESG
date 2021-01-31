@@ -1,0 +1,41 @@
+Alphabet Inc,www.abc.xyz
+NYSE Euronext,beta.nyse.com
+2U Inc,2u.com
+TerraForm Power Inc,www.terraformpower.com
+Lumentum Holdings Inc,www.lumentum.com
+rue21 Inc,www.rue21.com
+Fresh Market Inc (The),www.thefreshmarket.com
+Mueller Water Products Inc,www.muellerwaterproducts.com
+Zoetis Inc,www.zoetis.com
+GoDaddy Inc,www.godaddy.com
+Williams Scotsman International Inc,www.willscot.com
+Parsley Energy Inc,www.parsleyenergy.com
+Conduent Inc,www.conduent.com
+Bright Horizons Family Solutions Inc,www.brighthorizons.com
+Extraction Oil & Gas Inc,www.extractionog.com
+Commerce Group Inc. (The),www.mapfreinsurance.com
+KAR Auction Services Inc,www.karglobal.com
+Zayo Group Holdings Inc,www.zayo.com
+Goldman Sachs Group Inc (The),www.goldmansachs.com
+FMC Technologies Inc,www.fmctechnologies.com
+Air Lease Corp,www.airleasecorp.com
+Brocade Communications Systems Inc,www.brocade.com
+Armstrong World Industries Inc,www.armstrongceilings.com
+Macy's Inc,www.macysinc.com
+Facebook Inc,investor.fb.com
+Metro-Goldwyn-Mayer Inc.,www.mgm.com
+Wynn Resorts Ltd,www.wynnresorts.com
+Mondelez International Inc,www.mondelezinternational.com
+IMS Health Holdings Inc,www.imshealth.com
+NRG Energy Inc,www.nrg.com
+Cox Communications Inc,www.cox.com
+Aptiv Plc,www.aptiv.com
+Advanced Drainage Systems Inc,www.ads-pipe.com
+First Hawaiian Inc,www.fhb.com
+Hertz Global Holdings Inc,www.hertz.com
+Teradata Corp,www.teradata.com
+Sunrun Inc,www.sunrun.com
+Exxon Mobil Corp,corporate.exxonmobil.com
+Formula One Group - The Liberty Media Group,www.libertymedia.com
+AMETEK Inc,www.ametek.com
+Globe Specialty Metals Inc,www.glbsm.com

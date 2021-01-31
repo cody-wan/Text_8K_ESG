@@ -1,0 +1,41 @@
+Las Vegas Sands Corp,www.sands.com
+Twitter Inc,www.twitter.com
+National General Holdings Corp,www.nationalgeneral.com
+Darden Restaurants Inc.,www.darden.com
+Excel Communications Inc,www.excel.com
+Delta Air Lines Inc,www.delta.com
+TripAdvisor Inc,www.tripadvisor.com
+Linde Plc,www.linde.com
+Huntington Ingalls Industries Inc,www.huntingtoningalls.com
+Concho Resources Inc,www.concho.com
+Arista Networks Inc,www.arista.com
+Park Hotels & Resorts Inc,www.pkhotelsandresorts.com
+Outfront Media Inc,www.outfrontmedia.com
+Dollar General Corporation,www.dollargeneral.com
+GMS Inc,www.gms.com
+Advance Auto Parts Inc.,www.advanceautoparts.com
+Nasdaq Inc,www.nasdaq.com
+Lexmark International Inc.,www.lexmark.com
+Hillenbrand Inc,www.hillenbrand.com
+eBay Inc.,www.ebayinc.com
+Kemper Corp,www.kemper.com
+Microsoft Corp,www.microsoft.com
+Eastman Chemical Co,www.eastman.com
+DreamWorks Animation SKG Inc,www.dreamworksanimation.com
+Reader's Digest Assn Inc,www.tmbi.com
+Acushnet Holdings Corp,www.acushnetholdingscorp.com
+CarMax Inc,www.carmax.com
+Benefitfocus Inc,www.benefitfocus.com
+Marriott Vacations Worldwide Corp,www.marriottvacationsworldwide.com
+VWR Corp,www.vwr.com
+PanAmSat Corp,www.intelsat.com
+Kinder Morgan Inc.,www.kindermorgan.com
+Sprouts Farmers Market Inc,www.sprouts.com
+HCA Healthcare Inc,www.hcahealthcare.com
+KLX Inc,www.boeingdistribution.com
+CommScope Holding Co Inc,www.commscope.com
+CST Brands Inc,www.cstbrands.com
+FibroGen Inc,www.fibrogen.com
+Knight-Swift Transportation Holdings Inc,knight-swift.com
+Cvent Inc,www.cvent.com
+Puma Biotechnology Inc,www.pumabiotechnology.com

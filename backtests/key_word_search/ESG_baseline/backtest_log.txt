@@ -1,0 +1,99 @@
+INFO: 11/11/2020 11:07:08 - 	Test Started
+INFO: 11/11/2020 11:07:08 - number of CIK: 728
+INFO: 11/11/2020 11:07:09 - total number of corresponding NAICS: 728
+INFO: 11/11/2020 11:07:09 - 2 CIK(s) for ['11'], Agriculture, Forestry, Fishing and Hunting
+INFO: 11/11/2020 11:07:09 - 	2/2 non-empty file read
+INFO: 11/11/2020 11:11:52 - 	Test Started
+INFO: 11/11/2020 11:11:52 - number of CIK: 728
+INFO: 11/11/2020 11:11:53 - total number of corresponding NAICS: 728
+INFO: 11/11/2020 11:11:53 - 2 CIK(s) for ['11'], Agriculture, Forestry, Fishing and Hunting
+INFO: 11/11/2020 11:11:53 - 	2/2 non-empty file read
+INFO: 11/11/2020 11:13:22 - 	Test Started
+INFO: 11/11/2020 11:13:22 - number of CIK: 728
+INFO: 11/11/2020 11:13:23 - total number of corresponding NAICS: 728
+INFO: 11/11/2020 11:13:23 - 2 CIK(s) for ['11'], Agriculture, Forestry, Fishing and Hunting
+INFO: 11/11/2020 11:13:23 - 	2/2 non-empty file read
+INFO: 11/11/2020 11:16:47 - 	time elapsed: 0:03:23.741014
+INFO: 11/11/2020 11:16:47 - 	Test Complete
+INFO: 11/11/2020 11:16:47 - total time elapsed: 0:03:23.741014
+INFO: 11/11/2020 11:38:36 - number of CIK: 728
+INFO: 11/11/2020 11:38:37 - total number of corresponding NAICS: 728
+INFO: 11/11/2020 11:38:37 - 2 CIK(s) for ['11'], Agriculture, Forestry, Fishing and Hunting
+INFO: 11/11/2020 11:38:37 - 	2/2 non-empty file read
+INFO: 11/11/2020 11:41:49 - 	time elapsed: 0:03:12.760217
+INFO: 11/11/2020 11:41:49 - 41 CIK(s) for ['21'], Mining, Quarrying, and Oil and Gas Extraction
+INFO: 11/11/2020 11:41:51 - 	41/41 non-empty file read
+INFO: 11/12/2020 12:25:21 - number of CIK: 728
+INFO: 11/12/2020 12:25:22 - total number of corresponding NAICS: 728
+INFO: 11/12/2020 12:25:22 - 2 CIK(s) for ['11'], Agriculture, Forestry, Fishing and Hunting
+INFO: 11/12/2020 12:25:22 - 	2/2 non-empty file read
+INFO: 11/12/2020 12:28:32 - 	time elapsed: 0:03:10.316414
+INFO: 11/12/2020 12:28:32 - 41 CIK(s) for ['21'], Mining, Quarrying, and Oil and Gas Extraction
+INFO: 11/12/2020 12:28:34 - 	41/41 non-empty file read
+INFO: 11/12/2020 12:45:10 - 	time elapsed: 0:16:37.175400
+INFO: 11/12/2020 12:45:10 - 24 CIK(s) for ['22'], Utilities
+INFO: 11/12/2020 12:45:11 - 8-K_916457_20200101.json, 0000916457-10-000041, EX-99.1_3
+INFO: 11/12/2020 12:45:11 - 8-K_916457_20200101.json, 0000916457-10-000012, EX-10.1_2
+INFO: 11/12/2020 12:45:11 - 8-K_784977_20200101.json, 0000784977-06-000024, EX-99_2
+INFO: 11/12/2020 12:45:11 - 	24/24 non-empty file read
+INFO: 11/12/2020 01:01:44 - 	time elapsed: 0:16:34.091975
+INFO: 11/12/2020 01:01:44 - 4 CIK(s) for ['23'], Construction
+INFO: 11/12/2020 01:01:44 - 	4/4 non-empty file read
+INFO: 11/12/2020 01:03:13 - 	time elapsed: 0:01:29.643834
+INFO: 11/12/2020 01:03:13 - 227 CIK(s) for ['31', '32', '33'], Manufacturing
+INFO: 11/12/2020 01:03:19 - 8-K_1034670_20200101.json, 0001564590-19-025272, EX-99.1_2
+INFO: 11/12/2020 01:03:19 - 8-K_1034670_20200101.json, 0001564590-19-001263, EX-99.1_2
+INFO: 11/12/2020 01:03:19 - 8-K_1034670_20200101.json, 0001564590-18-025203, EX-99.1_2
+INFO: 11/12/2020 01:03:20 - 8-K_1604028_20200101.json, 0001564590-19-028023, EX-99.1_6
+INFO: 11/12/2020 01:03:21 - 	225/227 non-empty file read
+INFO: 11/12/2020 02:07:53 - 	time elapsed: 1:04:40.094782
+INFO: 11/12/2020 02:07:53 - 21 CIK(s) for ['42'], Wholesale Trade
+INFO: 11/12/2020 02:07:54 - 	21/21 non-empty file read
+INFO: 11/12/2020 02:13:52 - 	time elapsed: 0:05:58.271117
+INFO: 11/12/2020 02:13:52 - 32 CIK(s) for ['44', '45'], Retail Trade
+INFO: 11/12/2020 02:13:53 - 	31/32 non-empty file read
+INFO: 11/12/2020 02:22:04 - 	time elapsed: 0:08:12.466374
+INFO: 11/12/2020 02:22:04 - 17 CIK(s) for ['48', '49'], Transportation and Warehousing
+INFO: 11/12/2020 02:22:05 - 	17/17 non-empty file read
+INFO: 11/12/2020 02:29:38 - 	time elapsed: 0:07:33.411633
+INFO: 11/12/2020 02:29:38 - 135 CIK(s) for ['51'], Information
+INFO: 11/12/2020 02:29:42 - 8-K_1469433_20200101.json, 0000950123-10-097458, EX-99.2_3
+INFO: 11/12/2020 02:29:42 - 	135/135 non-empty file read
+INFO: 11/12/2020 03:10:05 - 	time elapsed: 0:40:27.931816
+INFO: 11/12/2020 03:10:05 - 120 CIK(s) for ['52'], Finance and Insurance
+INFO: 11/12/2020 03:10:11 - 8-K_921847_20200101.json, 0000950123-07-016001, EX-99.1_2
+INFO: 11/12/2020 03:10:11 - 8-K_921847_20200101.json, 0000950123-03-005367, 8-K_1
+INFO: 11/12/2020 03:10:12 - 	117/120 non-empty file read
+INFO: 11/12/2020 03:56:35 - 	time elapsed: 0:46:29.372992
+INFO: 11/12/2020 03:56:35 - 11 CIK(s) for ['53'], Real Estate and Rental and Leasing
+INFO: 11/12/2020 03:56:35 - 	11/11 non-empty file read
+INFO: 11/12/2020 04:00:15 - 	time elapsed: 0:03:40.496685
+INFO: 11/12/2020 04:00:15 - 32 CIK(s) for ['54'], Professional, Scientific, and Technical Services
+INFO: 11/12/2020 04:00:16 - 8-K_894253_20200101.json, 0000950134-02-007954, EX-99.334_173
+INFO: 11/12/2020 04:00:16 - 	32/32 non-empty file read
+INFO: 11/12/2020 04:07:59 - 	time elapsed: 0:07:43.147892
+INFO: 11/12/2020 04:07:59 - 0 CIK(s) for ['55'], Management of Companies and Enterprises
+INFO: 11/12/2020 04:07:59 - 	0/0 non-empty file read
+INFO: 11/12/2020 04:07:59 - 	time elapsed: 0:00:00.226279
+INFO: 11/12/2020 04:07:59 - 14 CIK(s) for ['56'], Administrative and Support and Waste Management and Remediation Services
+INFO: 11/12/2020 04:07:59 - 	13/14 non-empty file read
+INFO: 11/12/2020 04:13:19 - 	time elapsed: 0:05:20.048623
+INFO: 11/12/2020 04:13:19 - 1 CIK(s) for ['61'], Educational Services
+INFO: 11/12/2020 04:13:19 - 	1/1 non-empty file read
+INFO: 11/12/2020 04:13:30 - 	time elapsed: 0:00:11.662827
+INFO: 11/12/2020 04:13:30 - 8 CIK(s) for ['62'], Health Care and Social Assistance
+INFO: 11/12/2020 04:13:31 - 	8/8 non-empty file read
+INFO: 11/12/2020 04:17:52 - 	time elapsed: 0:04:21.798822
+INFO: 11/12/2020 04:17:52 - 6 CIK(s) for ['71'], Arts, Entertainment, and Recreation
+INFO: 11/12/2020 04:17:52 - 	6/6 non-empty file read
+INFO: 11/12/2020 04:19:28 - 	time elapsed: 0:01:35.688643
+INFO: 11/12/2020 04:19:28 - 30 CIK(s) for ['72'], Accommodation and Food Services
+INFO: 11/12/2020 04:19:29 - 	30/30 non-empty file read
+INFO: 11/12/2020 04:32:53 - 	time elapsed: 0:13:25.372303
+INFO: 11/12/2020 04:32:53 - 0 CIK(s) for ['81'], Other Services
+INFO: 11/12/2020 04:32:53 - 	0/0 non-empty file read
+INFO: 11/12/2020 04:32:54 - 	time elapsed: 0:00:00.248672
+INFO: 11/12/2020 04:32:54 - 0 CIK(s) for ['91'], Public Administration
+INFO: 11/12/2020 04:32:54 - 	0/0 non-empty file read
+INFO: 11/12/2020 04:32:54 - 	time elapsed: 0:00:00.186710
+INFO: 11/12/2020 04:32:54 - total time elapsed: 4:07:31.653793

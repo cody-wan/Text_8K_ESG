@@ -1,0 +1,567 @@
+conml,weburl
+AVX Corp.,www.avx.com
+Aetna Inc.,www.aetna.com
+Primerica Inc,www.primerica.com
+American Express Co,www.americanexpress.com
+American International Group Inc,www.aig.com
+Trane Inc,www.trane.com
+AMETEK Inc,www.ametek.com
+Anheuser-Busch Companies Inc,www.anheuser-busch.com
+Apple Inc,www.apple.com
+Avon Products Inc.,www.avonworldwide.com
+Baker Hughes Inc,www.bakerhughes.com
+Verizon Communications Inc,www.verizon.com
+Cigna Corp,www.cigna.com
+CIT Group Inc-Old,www.cit-llc.com
+CSX Corp,www.csx.com
+Dole Food Co Inc,www.dole.com
+Magellan Health Inc,www.magellanhealth.com
+Comcast Corp,corporate.comcast.com
+Citigroup Inc,www.citigroup.com
+Shutterstock Inc,www.shutterstock.com
+Continental Resources Inc,www.clr.com
+OneMain Holdings Inc,www.onemainfinancial.com
+Delta Air Lines Inc,www.delta.com
+Dollar General Corporation,www.dollargeneral.com
+Dominion Energy Inc,www.dominionenergy.com
+Dun & Bradstreet Corp (The),www.dnb.com
+Exxon Mobil Corp,corporate.exxonmobil.com
+Macy's Inc,www.macysinc.com
+Fluor Corp,www.fluor.com
+Genentech Inc,www.gene.com
+Ally Financial Inc,www.ally.com
+General Motors Co,www.gm.com
+General Re Corp,www.genre.com
+The Kraft Heinz Co,www.kraftheinzcompany.com
+Hertz Global Holdings Inc,www.hertz.com
+Hilton Worldwide Holdings Inc,www.hilton.com
+Pinnacle Entertainment Inc.,www.pnk.com
+Starwood Hotels & Resorts Worldwide Inc.,www.starwood.com
+IBP Inc,www.tysonfreshmeats.com
+Kinder Morgan Inc.,www.kindermorgan.com
+Eli Lilly and Co,www.lilly.com
+Medco Health Solutions Inc.,express-scripts.com
+McKesson Corp,www.mckesson.com
+Michaels Cos Inc (The),www.michaels.com
+Penn Virginia Corp,www.pennvirginia.com
+NCR Corp,www.ncr.com
+Norfolk Southern Corp,www.norfolksouthern.com
+NorthWestern Corp,www.northwesternenergy.com
+Owens Corning,www.owenscorning.com
+Sempra Energy,www.sempra.com
+Rockwell Automation Inc.,www.rockwellautomation.com
+7-Eleven Inc,www.7-eleven.com
+Safeway Inc,www.safeway.com
+Sealed Air Corp,www.sealedair.com
+Navient Corp,www.navient.com
+AT&T Inc,www.att.com
+SunTrust Banks Inc.,www.suntrust.com
+United Parcel Service Inc,www.ups.com
+Telephone and Data Systems Inc.,www.tdsinc.com
+Six Flags Entertainment Corp,www.sixflags.com
+Tribune Media Co,www.tribunemedia.com
+U S West-Consolidated,www.uswest.com
+Sprint Corp,www.sprint.com
+Alexander & Baldwin Inc,www.alexanderbaldwin.com
+Anadarko Petroleum Corp,www.anadarko.com
+Morgan Stanley,www.morganstanley.com
+Microsoft Corp,www.microsoft.com
+Coty Inc,www.coty.com
+Metro-Goldwyn-Mayer Inc.,www.mgm.com
+Portland General Electric Co,www.portlandgeneral.com
+St. Joe Co (The),www.joe.com
+Coca-Cola European Partners Plc,www.cocacolaep.com
+Unum Group,www.unum.com
+Pilgrim's Pride Corp,www.pilgrims.com
+Neiman Marcus Inc,www.neimanmarcusgroup.com
+York International Corp,www.york.com
+GCI Liberty Inc,www.gciliberty.com
+Zoetis Inc,www.zoetis.com
+First Republic Bank,www.firstrepublic.com
+LifeLock Inc,www.lifelock.com
+Amphenol Corp,www.amphenol.com
+ADT Corp (The),www.adt.com
+Freeport-McMoRan Inc,fcx.com
+Arch Coal Inc,www.archrsc.com
+Devon Energy Corp,www.devonenergy.com
+Workday Inc,www.workday.com
+Voya Financial Inc,www.voya.com
+Wheelabrator Technologies,wtienergy.com
+Valero Energy Corp,www.valero.com
+AbbVie Inc,www.abbvie.com
+Ruckus Wireless Inc,www.ruckuswireless.com
+Boise Cascade Co,www.bc.com
+Lear Corp,www.lear.com
+EOG Resources Inc.,www.eogresources.com
+ServisFirst Bancshares Inc,www.servisfirstbank.com
+Advanced Disposal Services Inc,www.advanceddisposal.com
+Houghton Mifflin Harcourt Co,www.hmhco.com
+T-Mobile US Inc,www.t-mobile.com
+Liberty Media Corp SiriusXM Group,www.libertymedia.com
+Xoom Corp,www.xoom.com
+Marketo Inc,www.marketo.com
+CST Brands Inc,www.cstbrands.com
+HD Supply Holdings Inc,www.hdsupply.com
+Iqvia Holdings Inc,www.iqvia.com
+Portola Pharmaceuticals Inc,www.portola.com
+Sprouts Farmers Market Inc,www.sprouts.com
+Ply Gem Holdings Inc,www.plygem.com
+CommScope Holding Co Inc,www.commscope.com
+News Corp,newscorp.com
+Agios Pharmaceuticals Inc,www.agios.com
+Fox Factory Holding Corp,www.ridefox.com
+National General Holdings Corp,www.nationalgeneral.com
+Clearway Energy Inc,www.clearwayenergy.com
+Cvent Inc,www.cvent.com
+ClubCorp Holdings Inc,www.clubcorp.com
+Santander Consumer USA Holdings Inc,www.santanderconsumerusa.com
+US Foods Holding Corp,www.usfoods.com
+Precigen Inc,www.precigen.com
+Antero Resources Corp,www.anteroresources.com
+FireEye Inc,www.fireeye.com
+Foundation Medicine Inc,www.foundationmedicine.com
+Murphy USA Inc,www.murphyusa.com
+Acceleron Pharma Inc,www.acceleronpharma.com
+Benefitfocus Inc,www.benefitfocus.com
+Premier Inc,www.premierinc.com
+MacroGenics Inc,www.macrogenics.com
+Burlington Stores Inc,www.burlingtoninvestors.com
+Pattern Energy Group Inc,www.patternenergy.com
+Science Applications International Corp,www.saic.com
+Barracuda Networks Inc,www.barracuda.com
+Surgical Care Affiliates Inc,scasurgery.com
+Twitter Inc,www.twitter.com
+Ultragenyx Pharmaceutical Inc,www.ultragenyx.com
+Nimble Storage Inc,www.hpe.com
+Cheniere Energy Partners LP Holdings LLC,www.cheniere.com
+RSP Permian Inc,www.rsppermian.com
+Continental Building Products Inc,www.continental-bp.com
+Outfront Media Inc,www.outfrontmedia.com
+ONE Gas Inc,www.onegas.com
+Knowles Corp,www.knowles.com
+Fortress Transportation and Infrastructure Investors LLC,www.ftandi.com
+CorePoint Lodging Inc,www.corepoint.com
+LendingClub Corp,www.lendingclub.com
+Sabre Corp,www.sabre.com
+Paylocity Holding Corp,www.paylocity.com
+Enlink Midstream LLC,www.enlink.com
+2U Inc,2u.com
+GrubHub Inc,investors.grubhub.com
+Medpace Holdings Inc,www.medpace.com
+Terminix Global Holdings Inc,www.servicemaster.com
+FS KKR Capital Corp,www.fsinvestmentcorp.com
+Zendesk Inc,www.zendesk.com
+Paycom Software Inc,www.paycom.com
+Advanced Drainage Systems Inc,www.ads-pipe.com
+Keysight Technologies Inc,www.keysight.com
+NOW Inc,www.distributionnow.com
+Parsley Energy Inc,www.parsleyenergy.com
+Catalent Inc,www.catalent.com
+Nexeo Solutions Inc,www.nexeosolutions.com
+Opus Bank,www.opusbank.com
+Ares Management Corp,www.aresmgmt.com
+Kite Pharma Inc,www.kitepharma.com
+Synchrony Financial,www.synchrony.com
+Liberty TripAdvisor Holdings Inc,www.libertytripadvisorholdings.com
+TerraForm Power Inc,www.terraformpower.com
+Arista Networks Inc,www.arista.com
+HealthEquity Inc,www.healthequity.com
+Reader's Digest Assn Inc,www.tmbi.com
+Cannae Holdings Inc,www.cannaeholdings.com
+Sage Therapeutics Inc,www.sagerx.com
+Diplomat Pharmacy Inc,www.diplomatpharmacy.com
+Liberty Broadband Corp,www.libertybroadband.com
+Zayo Group Holdings Inc,www.zayo.com
+Avanos Medical Inc,avanos.com
+Univar Solutions Inc,www.univar.com
+Kemper Corp,www.kemper.com
+Citizens Financial Group Inc,www.citizensbank.com
+Great Western Bancorp Inc,www.greatwesternbank.com
+PRA Health Sciences Inc,prahs.com
+CDK Global Inc,www.cdkglobal.com
+VWR Corp,www.vwr.com
+Mammoth Energy Services Inc,www.mammothenergy.com
+Syneos Health Inc,www.syneoshealth.com
+Metaldyne Performance Group Inc,www.mpgdriven.com
+HubSpot Inc,www.hubspot.com
+FibroGen Inc,www.fibrogen.com
+Nevro Corp,www.nevro.com
+New Relic Inc,www.newrelic.com
+International Bancshares Corp,www.ibc.com
+Juno Therapeutics Inc,www.junotherapeutics.com
+Par Pacific Holdings Inc,www.parpacific.com
+HCA Healthcare Inc,www.hcahealthcare.com
+KLX Inc,www.boeingdistribution.com
+GMS Inc,www.gms.com
+Summit Materials Inc,summit-materials.com
+Shake Shack Inc,www.shakeshack.com
+Vista Outdoor Inc,vistaoutdoor.com
+Chemours Co (The),www.chemours.com
+Inovalon Holdings Inc,www.inovalon.com
+Spark Therapeutics Inc,www.sparktx.com
+GoDaddy Inc,www.godaddy.com
+Energizer Holdings Inc,www.energizerholdings.com
+SolarEdge Technologies Inc,www.solaredge.com
+TopBuild Corp,www.topbuild.com
+Cable One Inc,www.cableone.biz
+Lumentum Holdings Inc,www.lumentum.com
+Tallgrass Energy GP LP,www.tallgrassenergylp.com
+Etsy Inc,www.etsy.com
+Virtu Financial Inc,www.virtu.com
+Milacron Holdings Corp,www.milacron.com
+Gannett Co Inc -Old,www.gannett.com
+Wingstop Inc,www.wingstop.com
+Fitbit Inc,www.fitbit.com
+AutoZone Inc,www.autozone.com
+Glaukos Corp,www.glaukos.com
+United States Steel Corp,www.ussteel.com
+AES Corp (The),www.aes.com
+Ollie's Bargain Outlet Holdings Inc,www.ollies.us
+Alarm.com Holdings Inc,www.alarm.com
+Ambac Financial Group Inc,www.ambac.com
+Blue Buffalo Pet Products Inc,www.bluebuffalo.com
+Madison Square Garden Sports Corp,www.msgsports.com
+TransUnion,www.transunion.com
+SPX FLOW Inc,www.spxflow.com
+PayPal Holdings Inc,www.paypal.com
+Sunrun Inc,www.sunrun.com
+Planet Fitness Inc,www.planetfitness.com
+ADESA Inc.,www.adesa.com
+Linde Plc,www.linde.com
+SiteOne Landscape Supply Inc,www.siteone.com
+First Data Corp.,www.firstdata.com
+Boston Scientific Corp,www.bostonscientific.com
+Kohl's Corp,www.Kohls.com
+Compuware Corp,www.compuware.com
+At Home Group Inc,www.athome.com
+Penumbra Inc,www.penumbrainc.com
+Hewlett Packard Enterprise Co,www.hpe.com
+CSRA Inc,www.csra.com
+Red Rock Resorts Inc,www.redrockresorts.com
+Fortive Corp,www.fortive.com
+Welbilt Inc,www.welbilt.com
+Versum Materials Inc,www.versummaterials.com
+GCP Applied Technologies Inc,www.gcpat.com
+Avangrid Inc,www.avangrid.com
+Acacia Communications Inc,acacia-inc.com
+Liberty Expedia Holdings Inc,www.libertyexpedia.com
+Atkore International Group Inc,www.atkore.com
+Ingevity Corp,www.ingevity.com
+Hilton Grand Vacations Inc,www.hiltongrandvacations.com
+Formula One Group - The Liberty Media Group,www.libertymedia.com
+Cotiviti Holdings Inc,www.cotiviti.com
+Park Hotels & Resorts Inc,www.pkhotelsandresorts.com
+Acushnet Holdings Corp,www.acushnetholdingscorp.com
+Valvoline Inc,www.valvoline.com
+JELD-WEN Holding Inc,www.jeld-wen.com
+Alcoa Corp,www.alcoa.com
+Coupa Software Inc,www.coupa.com
+First Hawaiian Inc,www.fhb.com
+Extraction Oil & Gas Inc,www.extractionog.com
+Allstate Corp (The),www.allstate.com
+CDW Corp,www.cdw.com
+BorgWarner Inc,www.borgwarner.com
+iRhythm Technologies Inc,www.iRhythmTech.com
+BlackLine Inc,www.blackline.com
+Yum China Holdings Inc,www.yumchina.com
+Conduent Inc,www.conduent.com
+Varex Imaging Corp,www.vareximaging.com
+Performance Food Group Co,www.pfgc.com
+Lamb Weston Holdings Inc,www.lambweston.com
+Marriott International Inc,www.marriott.com
+Eastman Chemical Co,www.eastman.com
+Gateway Inc.,www.gateway.com
+NexTier Oilfield Solutions Inc,nextierofs.com
+Commerce Group Inc. (The),www.mapfreinsurance.com
+Jagged Peak Energy Inc,www.jaggedpeakenergy.com
+Martin Marietta Materials Inc.,www.martinmarietta.com
+Albemarle Corp,www.albemarle.com
+Eagle Materials Inc,www.eaglematerials.com
+PETCO Animal Supplies Inc,www.petco.com
+Lehman Brothers Holdings Inc,www.lehman.com
+Case Corp,www.casece.com
+Knight-Swift Transportation Holdings Inc,knight-swift.com
+Capital One Financial Corp.,www.capitalone.com
+Lin Television Corp,www.lintv.com
+Cox Communications Inc,www.cox.com
+Baker Hughes a GE Co,www.bakerhughes.com
+Darden Restaurants Inc.,www.darden.com
+Starz,www.starz.com
+Infinera Corp,www.infinera.com
+Cameron International Corp,www.cameron.slb.com
+Dave & Buster's Entertainment Inc,ir.daveandbusters.com
+Erie Indemnity Co,www.erieinsurance.com
+PanAmSat Corp,www.intelsat.com
+Diamond Offshore Drilling Inc.,www.diamondoffshore.com
+Estee Lauder Cos Inc (The),www.elcompanies.com
+Extended Stay America Inc.,www.extendedstayamerica.com
+Lexmark International Inc.,www.lexmark.com
+Hartford Financial Services Group Inc. (The),www.thehartford.com
+Credit Suisse (USA) Inc,www.credit-suisse.com/us
+Travelers Companies Inc (The),www.travelers.com
+Excel Communications Inc,www.excel.com
+Tupperware Brands Corp,www.tupperwarebrands.com
+SS&C Technologies Holdings Inc,www.ssctech.com
+Dial Corp (The),www.dialsoap.com
+Calpine Corp,www.calpine.com
+Gulfstream Aerospace,www.gulfstream.com
+Sabre Holdings Corp,www.sabre-holdings.com
+IMS Health Holdings Inc,www.imshealth.com
+West Corp,www.west.com
+CarMax Inc,www.carmax.com
+Autoliv Inc,www.autoliv.com
+Galileo International Inc,galileo.com
+Archrock Inc,www.archrock.com
+BJ's Wholesale Club Inc.,www.bjs.com
+Bright Horizons Family Solutions Inc,www.brighthorizons.com
+YUM! Brands Inc.,www.yum.com
+Remy International Inc,www.remyinc.com
+C.H. Robinson Worldwide Inc.,www.chrobinson.com
+Mettler-Toledo International Inc,www.mt.com
+Georgia-Pacific Timber Co,www.thetimbercompany.com
+Ingredion Inc,www.ingredion.com
+Sodexho Marriott Services Inc,us.sodexo.com/home.html
+Hussmann International Inc,www.hussmann.com
+Verisign Inc,www.verisign.com
+Waddell & Reed Financial Inc.,www.waddell.com
+Young & Rubicam Inc,www.vmlyr.com
+Federated Hermes Inc,www.federatedinvestors.com
+Republic Services Inc.,www.republicservices.com
+L3 Technologies Inc,www.l3t.com
+RH,www.restorationhardware.com
+Goldman Sachs Group Inc (The),www.goldmansachs.com
+Fox Entertainment Group Inc.,www.fox.com/
+eBay Inc.,www.ebayinc.com
+Pennzoil-Quaker State Co,www.pennzoil.com
+Webmd Health Corp,www.wbmd.com
+J Crew Group Inc,www.jcrew.com
+Infinity Broadcasting Corp,www.cbsradio.com
+Aptiv Plc,www.aptiv.com
+NVIDIA Corporation,www.nvidia.com
+Capitol Federal Financial Inc,capfed.com
+Reynolds American Inc,www.reynoldsamerican.com
+Stancorp Financial Group Inc.,www.standard.com
+CNX Resources Corp,www.cnx.com
+Voicestream Wireless Corp,www.t-mobile.com
+Bankrate Inc,www.bankrate.com
+Brocade Communications Systems Inc,www.brocade.com
+Juniper Networks Inc,www.juniper.net
+Yankee Holding Corp,www.yankeecandle.com
+Red Hat Inc,www.redhat.com
+TIBCO Software Inc,www.tibco.com
+Quest Software Inc,www.quest.com
+Expedia Group Inc,www.expediagroup.com
+Pactiv Corp,www.pactiv.com
+Charter Communications Inc,corporate.charter.com
+Agilent Technologies Inc,www.agilent.com
+NRG Energy Inc,www.nrg.com
+Packaging Corp Of America,www.packagingcorp.com
+Silicon Laboratories Inc,www.silabs.com
+Grant Prideco Inc,www.nov.com
+Edwards Lifesciences Corp,www.edwards.com
+Edgewell Personal Care Co,edgewell.com
+Metlife Inc.,www.metlife.com
+Janus Capital Group Inc,www.janus.com
+Charles River Laboratories International Inc,www.criver.com
+Avaya Inc,www.avaya.com
+Tapestry Inc,www.tapestry.com
+Monsanto Co,www.monsanto.com
+RRI Energy Inc,reliant.com
+Trinet Group Inc,www.trinet.com
+Select Medical Corp,www.selectmedical.com
+Alliance Data Systems Corp,www.alliancedata.com
+FMC Technologies Inc,www.fmctechnologies.com
+Mondelez International Inc,www.mondelezinternational.com
+Odyssey Re Holdings Corp.,odysseygroup.com
+Prudential Financial Inc,www.prudential.com
+Anthem Inc,www.antheminc.com
+Rockwell Collins Inc,www.rockwellcollins.com
+Zimmer Biomet Holdings Inc,www.zimmerbiomet.com
+GameStop Corp.,www.gamestop.com
+Principal Financial Group Inc.,www.principal.com
+Advance Auto Parts Inc.,www.advanceautoparts.com
+JetBlue Airways Corp,www.jetblue.com
+Regal Entertainment Group,www.regmovies.com
+CIT Group Inc,www.cit.com
+AECOM,www.aecom.com
+TransDigm Group Inc,www.transdigm.com
+Wynn Resorts Ltd,www.wynnresorts.com
+Nasdaq Inc,www.nasdaq.com
+Carter's Inc.,www.carters.com
+Provident Financial Services Inc.,www.provident.bank
+Cimarex Energy Co.,www.cimarex.com
+Xperi Holding Corp,www.xperi.com
+QEP Resources Inc,www.qepres.com
+Genworth Financial Inc,www.genworth.com
+Assurant Inc.,www.assurant.com
+salesforce.com Inc,www.salesforce.com
+Syniverse Holdings Inc -Old,www.syniverse.com
+Hospira Inc,www.hospira.com
+Mastercard Inc,www.mastercard.com
+NAVTEQ Corp,www.here.com
+Alphabet Inc,www.abc.xyz
+Morningstar Inc,www.morningstar.com
+Cogent Inc,www.3m.com
+Westlake Chemical Corp,www.westlake.com
+Signature Bank,www.signatureny.com
+DreamWorks Animation SKG Inc,www.dreamworksanimation.com
+Mattress Firm Holding Corp,www.mattressfirm.com
+Las Vegas Sands Corp,www.sands.com
+Kearny Financial Corp,www.kearnybank.com
+Mosaic Company (The),www.mosaicco.com
+IHS Markit Ltd,www.ihsmarkit.com
+Celanese Corp,www.celanese.com
+Dolby Laboratories Inc,www.dolby.com
+Huntsman Corp,www.huntsman.com
+Intercontinental Exchange Inc,www.intercontinentalexchange.com
+NeuStar Inc,www.home.neustar
+ITC Holdings Corp,www.itc-holdings.com
+Cooper-Standard Holdings Inc,www.cooperstandard.com
+CF Industries Holdings Inc,www.cfindustries.com
+Hittite Microwave Corp,www.hittite.com
+Dresser-Rand Group Inc,www.dresser-rand.com
+Williams Scotsman International Inc,www.willscot.com
+TreeHouse Foods Inc,www.treehousefoods.com
+Discovery Inc,corporate.discovery.com
+Investors Bancorp Inc,www.myinvestorsbank.com
+Restaurant Brands International Inc,www.rbi.com
+Spirit Aerosystems Holdings Inc,www.spiritaero.com
+Ameriprise Financial Inc,www.ameriprise.com
+Under Armour Inc,www.underarmour.com
+Leidos Holdings Inc,www.leidos.com
+Delta Tucker Holdings Inc,www.dyn-intl.com
+Viacom Inc,www.viacom.com
+Embarq Corp,www.embarq.com
+Palo Alto Networks Inc,www.paloaltonetworks.com
+Chipotle Mexican Grill Inc,www.chipotle.com
+Fidelity National Information Services Inc,www.fisglobal.com
+Mueller Water Products Inc,www.muellerwaterproducts.com
+NYSE Euronext,beta.nyse.com
+Symetra Financial Corp,www.symetra.com
+Infoblox Inc,www.infoblox.com
+Diamondback Energy Inc,www.diamondbackenergy.com
+Post Holdings Inc,www.postholdings.com
+Splunk Inc,www.splunk.com
+Facebook Inc,investor.fb.com
+Phillips 66,www.phillips66.com
+Tumi Holdings Inc,www.tumi.com
+Puma Biotechnology Inc,www.pumabiotechnology.com
+Qurate Retail Inc,www.qurateretail.com
+Globus Medical Inc,www.globusmedical.com
+ServiceNow Inc,www.servicenow.com
+Bloomin' Brands Inc,www.bloominbrands.com
+Five Below Inc,www.fivebelow.com
+Realogy Holdings Corp,www.realogy.com
+Hanesbrands Inc,www.hanes.com
+Dunkin' Brands Group Inc,www.dunkinbrands.com
+Select Medical Holdings Corp,www.selectmedical.com
+KBR Inc,www.kbr.com
+Riverbed Technology Inc,www.riverbed.com
+Western Union Co,www.westernunion.com
+First Solar Inc,www.firstsolar.com
+Armstrong World Industries Inc,www.armstrongceilings.com
+Sally Beauty Holdings Inc,www.sallybeautyholdings.com
+Emdeon Inc,www.changehealthcare.com
+Interactive Brokers Group Inc,www.interactivebrokers.com
+Time Warner Cable Inc,www.timewarnercable.com
+TFS Financial Corp,www.thirdfederal.com
+Broadridge Financial Solutions Inc,www.broadridge.com
+Cinemark Holdings Inc,ir.cinemark.com
+Discover Financial Services,www.discover.com
+Solera Holdings Inc,www.solerainc.com
+Masimo Corp,www.masimo.com
+Concho Resources Inc,www.concho.com
+Allison Transmission Holdings Inc,www.allisontransmission.com
+MercadoLibre Inc,www.mercadolibre.com
+WABCO Holdings Inc,www.wabco-auto.com
+athenahealth Inc,www.athenahealth.com
+VMware Inc,www.vmware.com
+Teradata Corp,www.teradata.com
+LPL Financial Holdings Inc,www.lpl.com
+GLG Partners Inc,www.glgpartners.com
+EchoStar Corp,www.echostar.com
+American Water Works Co Inc,www.amwater.com
+Visa Inc,usa.visa.com
+Solarwinds Corp,www.solarwinds.com
+Philip Morris International Inc,www.pmi.com
+Hillenbrand Inc,www.hillenbrand.com
+Dr Pepper Snapple Group Inc,www.drpeppersnapplegroup.com
+KKR & Co Inc,www.kkr.com
+Rackspace Hosting Inc,www.rackspace.com
+MRC Global Inc,www.mrcglobal.com
+DigitalGlobe Inc,www.digitalglobe.com
+Grand Canyon Education Inc,www.gce.com
+Rexnord Corp,www.rexnordcorporation.com
+Black Knight Inc,www.blackknightinc.com
+Berry Global Group Inc,www.berryglobal.com
+Verisk Analytics Inc,www.verisk.com
+Mead Johnson Nutrition Co,www.meadjohnson.com
+Broadcom Inc,www.broadcom.com
+U S Silica Holdings Inc,www.ussilica.com
+OpenTable Inc,www.opentable.com
+Ancestry.com Inc,www.ancestry.com
+Hyatt Hotels Corp,www.hyatt.com
+rue21 Inc,www.rue21.com
+Fortinet Inc,www.fortinet.com
+KAR Auction Services Inc,www.karglobal.com
+Generac Holdings Inc,www.generac.com
+Team Health Holdings Inc,www.teamhealth.com
+AOL Inc,www.oath.com
+Financial Engines Inc,financialengines.com
+Apollo Global Management Inc,www.apollo.com
+Oasis Petroleum Inc,www.oasispetroleum.com
+RealPage Inc,www.realpage.com
+Qlik Technologies Inc,www.qlik.com/us
+Aeroflex Holding Corp,www.aeroflex.com
+FleetCor Technologies Inc,www.fleetcor.com
+Fresh Market Inc (The),www.thefreshmarket.com
+First American Financial Corp,www.firstam.com
+InvenSense Inc,www.invensense.com
+Tesla Inc,www.tesla.com
+BWX Technologies Inc,www.bwxt.com
+Pinnacle Foods Inc,www.pinnaclefoods.com
+Swift Transportation Co,www.swifttrans.com
+Targa Resources Corp,www.targaresources.com
+Diamond Resorts International Inc,www.diamondresorts.com
+EVERTEC Inc,www.evertecinc.com
+Spirit Airlines Inc,www.spirit.com
+Cornerstone OnDemand Inc,www.cornerstoneondemand.com
+Howard Hughes Corp (The),www.howardhughes.com
+BankUnited Inc,www.bankunited.com
+Huntington Ingalls Industries Inc,www.huntingtoningalls.com
+Booz Allen Hamilton Holding Corp,www.boozallen.com
+Kosmos Energy Ltd,www.kosmosenergy.com
+Air Lease Corp,www.airleasecorp.com
+HomeAway Inc,www.homeaway.com
+LinkedIn Corp,www.linkedin.com
+SeaWorld Entertainment Inc,seaworldentertainment.com
+Pandora Media Inc,www.pandora.com
+Fusion-io Inc,www.fusionio.com
+Aramark,www.aramark.com
+Marathon Petroleum Corp,www.marathonpetroleum.com
+Zillow Group Inc,www.zillowgroup.com
+Party City Holdco Inc,www.partycity.com
+WPX Energy Inc,www.wpxenergy.com
+Groupon Inc,www.groupon.com
+AMC Networks Inc,www.amcnetworks.com
+Ubiquiti Inc,www.ui.com
+Imperva Inc,www.imperva.com
+Demandware Inc,www.demandware.com
+Zynga Inc,www.zynga.com
+Proto Labs Inc,www.protolabs.com
+EPAM Systems Inc,www.epam.com
+Wesco Aircraft Holdings Inc,www.wescoair.com
+Laredo Petroleum Inc,www.laredopetro.com
+MACOM Technology Solutions Holdings Inc,www.macom.com
+Exelis Inc,www.exelisinc.com
+Fortune Brands Home & Security Inc,www.fbhs.com
+Xylem Inc,www.xylem.com
+Guidewire Software Inc,www.guidewire.com
+National Bank Holdings Corp,www.nationalbankholdings.com
+Marriott Vacations Worldwide Corp,www.marriottvacationsworldwide.com
+PBF Energy Inc,www.pbfenergy.com
+CBRE Group Inc,www.cbre.com
+Endurance International Group Holdings Inc,www.endurance.com
+TripAdvisor Inc,www.tripadvisor.com
+Globe Specialty Metals Inc,www.glbsm.com
+Element Solutions Inc,www.elementsolutionsinc.com

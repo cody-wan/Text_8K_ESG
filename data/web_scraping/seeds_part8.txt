@@ -1,0 +1,40 @@
+Laredo Petroleum Inc,www.laredopetro.com
+Etsy Inc,www.etsy.com
+Zynga Inc,www.zynga.com
+Devon Energy Corp,www.devonenergy.com
+TopBuild Corp,www.topbuild.com
+Leidos Holdings Inc,www.leidos.com
+Hilton Grand Vacations Inc,www.hiltongrandvacations.com
+Science Applications International Corp,www.saic.com
+Precigen Inc,www.precigen.com
+EchoStar Corp,www.echostar.com
+Shutterstock Inc,www.shutterstock.com
+Stancorp Financial Group Inc.,www.standard.com
+CDK Global Inc,www.cdkglobal.com
+PETCO Animal Supplies Inc,www.petco.com
+Fusion-io Inc,www.fusionio.com
+Booz Allen Hamilton Holding Corp,www.boozallen.com
+Zillow Group Inc,www.zillowgroup.com
+Credit Suisse (USA) Inc,www.credit-suisse.com/us
+Tribune Media Co,www.tribunemedia.com
+Lehman Brothers Holdings Inc,www.lehman.com
+Swift Transportation Co,www.swifttrans.com
+EVERTEC Inc,www.evertecinc.com
+Regal Entertainment Group,www.regmovies.com
+Pilgrim's Pride Corp,www.pilgrims.com
+IHS Markit Ltd,www.ihsmarkit.com
+Diamondback Energy Inc,www.diamondbackenergy.com
+Party City Holdco Inc,www.partycity.com
+Boise Cascade Co,www.bc.com
+ADT Corp (The),www.adt.com
+Dunkin' Brands Group Inc,www.dunkinbrands.com
+Wesco Aircraft Holdings Inc,www.wescoair.com
+Grant Prideco Inc,www.nov.com
+Endurance International Group Holdings Inc,www.endurance.com
+Targa Resources Corp,www.targaresources.com
+Infinera Corp,www.infinera.com
+Tumi Holdings Inc,www.tumi.com
+Young & Rubicam Inc,www.vmlyr.com
+CBRE Group Inc,www.cbre.com
+Kosmos Energy Ltd,www.kosmosenergy.com
+Morgan Stanley,www.morganstanley.com

@@ -1,0 +1,40 @@
+Cimarex Energy Co.,www.cimarex.com
+Medco Health Solutions Inc.,express-scripts.com
+Chipotle Mexican Grill Inc,www.chipotle.com
+U S Silica Holdings Inc,www.ussilica.com
+Cotiviti Holdings Inc,www.cotiviti.com
+St. Joe Co (The),www.joe.com
+AbbVie Inc,www.abbvie.com
+First American Financial Corp,www.firstam.com
+Fitbit Inc,www.fitbit.com
+Six Flags Entertainment Corp,www.sixflags.com
+Terminix Global Holdings Inc,www.servicemaster.com
+YUM! Brands Inc.,www.yum.com
+Principal Financial Group Inc.,www.principal.com
+Allstate Corp (The),www.allstate.com
+Sabre Holdings Corp,www.sabre-holdings.com
+Hanesbrands Inc,www.hanes.com
+Pactiv Corp,www.pactiv.com
+West Corp,www.west.com
+Sempra Energy,www.sempra.com
+Dial Corp (The),www.dialsoap.com
+General Re Corp,www.genre.com
+CorePoint Lodging Inc,www.corepoint.com
+Liberty Broadband Corp,www.libertybroadband.com
+BlackLine Inc,www.blackline.com
+Pattern Energy Group Inc,www.patternenergy.com
+NeuStar Inc,www.home.neustar
+Qurate Retail Inc,www.qurateretail.com
+Mastercard Inc,www.mastercard.com
+Ameriprise Financial Inc,www.ameriprise.com
+Sally Beauty Holdings Inc,www.sallybeautyholdings.com
+Citigroup Inc,www.citigroup.com
+DigitalGlobe Inc,www.digitalglobe.com
+LinkedIn Corp,www.linkedin.com
+Syneos Health Inc,www.syneoshealth.com
+Embarq Corp,www.embarq.com
+Sprint Corp,www.sprint.com
+WPX Energy Inc,www.wpxenergy.com
+Element Solutions Inc,www.elementsolutionsinc.com
+Edgewell Personal Care Co,edgewell.com
+Odyssey Re Holdings Corp.,odysseygroup.com

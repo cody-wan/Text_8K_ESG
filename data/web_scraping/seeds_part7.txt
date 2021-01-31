@@ -1,0 +1,40 @@
+Clearway Energy Inc,www.clearwayenergy.com
+BorgWarner Inc,www.borgwarner.com
+Voya Financial Inc,www.voya.com
+Diamond Offshore Drilling Inc.,www.diamondoffshore.com
+HubSpot Inc,www.hubspot.com
+First Data Corp.,www.firstdata.com
+Anheuser-Busch Companies Inc,www.anheuser-busch.com
+Celanese Corp,www.celanese.com
+Valero Energy Corp,www.valero.com
+GrubHub Inc,investors.grubhub.com
+J Crew Group Inc,www.jcrew.com
+U S West-Consolidated,www.uswest.com
+Magellan Health Inc,www.magellanhealth.com
+Coupa Software Inc,www.coupa.com
+Varex Imaging Corp,www.vareximaging.com
+Marathon Petroleum Corp,www.marathonpetroleum.com
+Ares Management Corp,www.aresmgmt.com
+Riverbed Technology Inc,www.riverbed.com
+Portola Pharmaceuticals Inc,www.portola.com
+Nevro Corp,www.nevro.com
+Tupperware Brands Corp,www.tupperwarebrands.com
+United States Steel Corp,www.ussteel.com
+Charles River Laboratories International Inc,www.criver.com
+Xperi Holding Corp,www.xperi.com
+Liberty Expedia Holdings Inc,www.libertyexpedia.com
+Mettler-Toledo International Inc,www.mt.com
+Synchrony Financial,www.synchrony.com
+Citizens Financial Group Inc,www.citizensbank.com
+Cooper-Standard Holdings Inc,www.cooperstandard.com
+CNX Resources Corp,www.cnx.com
+TreeHouse Foods Inc,www.treehousefoods.com
+CDW Corp,www.cdw.com
+LendingClub Corp,www.lendingclub.com
+FleetCor Technologies Inc,www.fleetcor.com
+Lear Corp,www.lear.com
+Post Holdings Inc,www.postholdings.com
+ONE Gas Inc,www.onegas.com
+Solarwinds Corp,www.solarwinds.com
+CSRA Inc,www.csra.com
+Planet Fitness Inc,www.planetfitness.com

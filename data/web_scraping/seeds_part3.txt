@@ -1,0 +1,40 @@
+Lamb Weston Holdings Inc,www.lambweston.com
+ADESA Inc.,www.adesa.com
+Summit Materials Inc,summit-materials.com
+American International Group Inc,www.aig.com
+GCP Applied Technologies Inc,www.gcpat.com
+Palo Alto Networks Inc,www.paloaltonetworks.com
+Fluor Corp,www.fluor.com
+Zendesk Inc,www.zendesk.com
+Hilton Worldwide Holdings Inc,www.hilton.com
+ServisFirst Bancshares Inc,www.servisfirstbank.com
+CF Industries Holdings Inc,www.cfindustries.com
+ClubCorp Holdings Inc,www.clubcorp.com
+TransUnion,www.transunion.com
+Viacom Inc,www.viacom.com
+LifeLock Inc,www.lifelock.com
+Kite Pharma Inc,www.kitepharma.com
+SunTrust Banks Inc.,www.suntrust.com
+United Parcel Service Inc,www.ups.com
+Cogent Inc,www.3m.com
+Metaldyne Performance Group Inc,www.mpgdriven.com
+Nimble Storage Inc,www.hpe.com
+Voicestream Wireless Corp,www.t-mobile.com
+EPAM Systems Inc,www.epam.com
+Coca-Cola European Partners Plc,www.cocacolaep.com
+Fidelity National Information Services Inc,www.fisglobal.com
+Republic Services Inc.,www.republicservices.com
+Discover Financial Services,www.discover.com
+Tesla Inc,www.tesla.com
+SeaWorld Entertainment Inc,seaworldentertainment.com
+International Bancshares Corp,www.ibc.com
+Hewlett Packard Enterprise Co,www.hpe.com
+TransDigm Group Inc,www.transdigm.com
+McKesson Corp,www.mckesson.com
+Reynolds American Inc,www.reynoldsamerican.com
+Yankee Holding Corp,www.yankeecandle.com
+Spirit Aerosystems Holdings Inc,www.spiritaero.com
+Xylem Inc,www.xylem.com
+Dun & Bradstreet Corp (The),www.dnb.com
+Hyatt Hotels Corp,www.hyatt.com
+Apollo Global Management Inc,www.apollo.com

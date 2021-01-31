@@ -1,0 +1,40 @@
+Rockwell Automation Inc.,www.rockwellautomation.com
+Ruckus Wireless Inc,www.ruckuswireless.com
+NVIDIA Corporation,www.nvidia.com
+Broadcom Inc,www.broadcom.com
+First Republic Bank,www.firstrepublic.com
+QEP Resources Inc,www.qepres.com
+Barracuda Networks Inc,www.barracuda.com
+InvenSense Inc,www.invensense.com
+Zimmer Biomet Holdings Inc,www.zimmerbiomet.com
+Federated Hermes Inc,www.federatedinvestors.com
+RRI Energy Inc,reliant.com
+Verisign Inc,www.verisign.com
+NexTier Oilfield Solutions Inc,nextierofs.com
+Workday Inc,www.workday.com
+Demandware Inc,www.demandware.com
+National Bank Holdings Corp,www.nationalbankholdings.com
+Galileo International Inc,galileo.com
+AVX Corp.,www.avx.com
+BankUnited Inc,www.bankunited.com
+Diamond Resorts International Inc,www.diamondresorts.com
+Assurant Inc.,www.assurant.com
+L3 Technologies Inc,www.l3t.com
+Guidewire Software Inc,www.guidewire.com
+Aramark,www.aramark.com
+Trane Inc,www.trane.com
+C.H. Robinson Worldwide Inc.,www.chrobinson.com
+Albemarle Corp,www.albemarle.com
+Boston Scientific Corp,www.bostonscientific.com
+PBF Energy Inc,www.pbfenergy.com
+Kohl's Corp,www.Kohls.com
+Howard Hughes Corp (The),www.howardhughes.com
+Delta Tucker Holdings Inc,www.dyn-intl.com
+Alexander & Baldwin Inc,www.alexanderbaldwin.com
+Discovery Inc,corporate.discovery.com
+KKR & Co Inc,www.kkr.com
+Inovalon Holdings Inc,www.inovalon.com
+Philip Morris International Inc,www.pmi.com
+FireEye Inc,www.fireeye.com
+Autoliv Inc,www.autoliv.com
+Ambac Financial Group Inc,www.ambac.com
